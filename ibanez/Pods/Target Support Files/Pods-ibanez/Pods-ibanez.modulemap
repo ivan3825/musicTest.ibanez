@@ -1,0 +1,6 @@
+framework module Pods_ibanez {
+  umbrella header "Pods-ibanez-umbrella.h"
+
+  export *
+  module * { export * }
+}
